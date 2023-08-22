@@ -1,0 +1,108 @@
+#naman{
+    /* margin-left: 22px;  */
+    /* /* padding: 23px; */
+    /* background-color: red; */
+    left: -9px;
+    margin-top: 29px;
+    /* font-size: 45px; */
+    /* text-size-adjust: 45px; */
+    /* size: 405px; */
+    padding: 55px;
+    
+}
+.jake:hover{
+    background-color: grey;
+    color: white;
+}
+#kl{
+    margin-top: 5px;
+}
+#lk{
+    margin-top: -8px;
+}
+b{
+    font-size: 56px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.h1, h1 {
+    font-size: 63px;
+}
+.jake{
+    /* background-color: white;
+    margin: -2px;
+    padding: 12px;
+    size: 48px;
+    border: 15px solid black;
+    margin-top: 12px;
+    height: 61px;
+    width: 154px;
+    border: 24px;
+    border-radius: 455px; */
+    width: 150px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 8px;
+    background-color: white;
+
+  
+}
+#btnk{
+    border-radius: 10px;
+}
+/* button{
+    border-radius: 222px;
+} */
+.ink{
+    font-size: large;
+    font-weight: shadow;
+    
+    letter-spacing: 4px;
+    
+}
+.img{
+    height: 458px;
+    width: 452px;
+    margin-right:905px
+
+}
+.nmn{
+    /* font-size: 45px; */
+}
+.col-sm-3 n{
+    /* left: 65px; */
+    /* gap: 405px; */
+    /* margin-top: 22px; */
+}
+.btn1{
+ 
+   background-color: black;
+   color: white;
+   border-radius: 7px;
+   height: 39px;
+   width: 79px;
+}
+.btn2{
+
+  border-radius: 7px;
+  height: 39px;
+   width: 79px;
+   background-color: black;
+   color: white;
+}
+.btn3{
+
+  height: 39px;
+  border-radius: 7px;
+   width: 79px;
+   background-color: black;
+   color: white;
+}
+.btn4{
+
+  height: 39px;
+   width: 79px;
+   border-radius: 7px;
+   background-color: black;
+   color: white;
+}
